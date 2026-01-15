@@ -1,0 +1,7 @@
+/home/danivescia/projects/cucumber-exercise/src/test/java/br/demoblaze/steps/BaseSteps.java
+/home/danivescia/projects/cucumber-exercise/src/test/java/br/demoblaze/pages/HomePage.java
+/home/danivescia/projects/cucumber-exercise/src/test/java/br/demoblaze/steps/Hooks.java
+/home/danivescia/projects/cucumber-exercise/src/test/java/br/demoblaze/steps/HomeSteps.java
+/home/danivescia/projects/cucumber-exercise/src/test/java/br/demoblaze/runners/RunCucumberTest.java
+/home/danivescia/projects/cucumber-exercise/src/test/java/br/demoblaze/steps/DemoBlazeSignUp.java
+/home/danivescia/projects/cucumber-exercise/src/test/java/br/demoblaze/pages/DemoBlazeSignUpPage.java

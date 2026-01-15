@@ -1,6 +1,7 @@
 br/demoblaze/steps/HomeSteps.class
 br/demoblaze/steps/BaseSteps.class
 br/demoblaze/steps/DemoBlazeSignUp.class
+br/demoblaze/runners/RunCucumberTest.class
 br/demoblaze/steps/Hooks.class
 br/demoblaze/pages/HomePage.class
 br/demoblaze/pages/DemoBlazeSignUpPage.class
